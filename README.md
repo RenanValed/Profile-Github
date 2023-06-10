@@ -1,7 +1,7 @@
 <div align="left">
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou Renan Dantas
+    Hi, i'm Renan Dantas!
   </h1>
   
 - 👨‍💻 I'm undergraduate student at the Federal University of Rio Grande do Norte
